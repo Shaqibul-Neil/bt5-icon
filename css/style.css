@@ -1,0 +1,78 @@
+.i_icon{
+	padding: 100px 0;
+}
+.container{
+	border: 1px solid red;
+	margin: 0 auto;
+	width: 90%;
+	height: 200px;
+}
+.icon{
+	font-size: 50px;
+	color: blueviolet;
+	position: relative;
+}
+.bi{
+	position: absolute;
+}
+.bi-envelope{
+	top: 0;
+	left: 0;
+}
+.bi-envelope-open{
+	top: 0;
+	right: 0;
+}
+.bi-envelope-paper{
+	top: 150px;
+	left: 0;
+}
+.bi-file-text{
+	right: 0;
+	top: 150px;
+}
+.bi-apple{
+	left: 0;
+	right: 0;
+	margin: 72px auto;
+    text-align: center;
+}
+.i_box{}
+.container2{
+	border: 1px solid red;
+	margin: 0 auto;
+	width: 90%;
+	height: 500px;
+	position: relative;
+}
+.box{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+}
+.box1{
+	background-color: red;
+	top: 0;
+	left: 0;
+}
+.box2{
+	background-color: green;
+	top: 0;
+	right: 0;
+}
+.box3{
+	background-color: blue;
+	left: 0;
+	right: 0;
+	margin: 200px auto;
+}
+.box4{
+	background-color: black;
+	right: 0;
+	bottom: 0;
+}
+.box5{
+	background-color: darkorange;
+	left: 0;
+	bottom: 0;
+}
